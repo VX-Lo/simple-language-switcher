@@ -1,0 +1,17 @@
+# Simple Language Switcher
+# License: GPL-3.0
+# Copyright (C) 2026 Lxtus & Claude
+# This program is free software under the GNU General Public License v3.0
+# See https://www.gnu.org/licenses/ for details.
+
+## Interface: 120001
+## Title: Simple Language Switcher
+## Notes: Easily switch your character's speaking language via slash commands or a minimap button.
+## Author: Lxtus & Claude
+## Version: 1.0.0
+## SavedVariables: SimpleLanguageSwitcherDB
+## OptionalDeps: LibStub, LibDataBroker-1.1, LibDBIcon-1.0
+## IconTexture: Interface\ICONS\ability_priest_heavanlyvoice
+## Category: Roleplay
+
+SimpleLanguageSwitcher.lua
